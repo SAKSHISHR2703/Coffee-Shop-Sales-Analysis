@@ -118,6 +118,7 @@ coffee-sales-analysis/
 ## 🙋‍♀️ About Me
 
 **Sakshi Sharma** 
+
 Data Analyst with a knack for finding the story hiding in messy datasets.
 I work with SQL, Python, and Power BI to build dashboards that actually help people make decisions.
 Currently leveling up through real-world projects in sales, customer analytics & food delivery ops. 

@@ -107,7 +107,7 @@ coffee-sales-analysis/
 ## 🚀 How to Run
 
 1. Import your CSV data into MySQL as a table named `coffee_shop`
-2. Run the full script: `Coffee_Sales_Analysis.sql`
+2. Run the full script: `Coffee_Shop_Sales_Analysis.sql`
 3. Change the `MONTH()` filter value to explore different months:
    ```sql
    WHERE MONTH(transaction_date) = 3  -- Change 3 to any month (1–12)

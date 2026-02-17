@@ -96,7 +96,8 @@ Tags each day as **Above Average**, **Below Average**, or **Average** using `AVG
 ```
 coffee-sales-analysis/
 │___ Coffee_Sales_Analysis.sql  # Full SQL script (cleaning + all analyses)
-├── Coffee_Sales_Analysis.csv      #  Sample Dataset
+├── Coffee Sales Analysis.csv
+|___ Coffee Shop Sales.xlsx      #  Sample Dataset
 └── Project Overview   # Full project description
 |__ README.md       # Project documentation
 ```
